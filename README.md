@@ -1,1 +1,1 @@
-# labs-java-enterprise
+## Labs Repo for Java Enterprise Course
