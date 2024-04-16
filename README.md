@@ -14,3 +14,8 @@
 🗒️🔍For more : https://github.com/giantconiku/project-1-spring-data-jpa/blob/main/README.md
 
      🟢 Created 'Lab3SpringDataJPA' directory and added 'project-1-spring-data-jpa' as a submodule
+---  
+     🟢 Created MySQLBookCRUDApplication inside 'project-2-spring-data-jpa' ⬇️
+🗒️🔍For more : https://github.com/giantconiku/project-2-spring-data-jpa/blob/main/README.md
+
+     🟢 Added 'project-2-spring-data-jpa' as a submodule in 'Lab3SpringDataJPA' directory
